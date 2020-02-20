@@ -30,7 +30,7 @@
     "core-js": "^2.4.1",
     "express": "^4.15.3",
     "lodash": "^4.17.4",
-    "mongoose": "^4.11.8",
+    "mongoose": "^5.9.1",
     "ng2-file-upload": "^1.2.1",
     "ng2-flex-layout": "^0.1.5",
     "ng2-socket-io": "^0.1.7",
