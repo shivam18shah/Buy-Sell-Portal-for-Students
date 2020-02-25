@@ -1,4 +1,4 @@
-# Minor7
+# Buy and Sell used educational items at school
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
